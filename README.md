@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Natã 🙂
 🙋‍♂️ Seja bem vindo ao meu perfil do GitHub
 
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando JavaScript & TypeScript
 
 
 <div align="center">
